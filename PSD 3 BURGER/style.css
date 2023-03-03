@@ -1,0 +1,494 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec-one{
+    background-image: url(./IMG/sec-1-bg-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    min-height: 824px;
+    overflow: hidden;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+}
+.jcs{
+    justify-content: space-between;
+}
+.sec-one h5{
+    font-size: 20px;
+    margin-top: 5px;
+    padding-left: 15px;
+    color: #3d2514;
+    font-family: "Bebas Neue";
+}
+.sec-one img{
+    display: inline;
+}
+.Vector{
+    margin-top: 80px;
+    
+}
+.logo{
+    margin-top: 60px;
+}
+.col-50{
+    width: 50%;
+}
+.sec-one h3{
+    margin-left: 8px;
+    margin-top: 100px;
+    padding-top: 80px;
+    font-size: 25px;
+text-transform: uppercase;
+color: #3d2514;
+font-weight: 400;
+font-family: "Bebas Neue";
+
+}
+.po-re{
+    position: relative;
+}
+.po-ab{
+position: absolute;
+top: 170px;
+}
+.sec-one h1{
+    letter-spacing: 2px;
+    margin-top: 10px;
+    font-size: 110px;
+/* line-height: 62px; */
+text-transform: uppercase;
+color: #3d2514;
+font-weight: 400;
+font-family: "Alfa Slab One";
+filter: drop-shadow(3.936px 4.528px 0px #fee8bc);
+}
+.sec-one h2{
+    color: #3d2514;
+    font-size: 60px;
+    font-family: "Alfa Slab One";
+filter: drop-shadow(3.936px 4.528px 0px #fee8bc);
+margin-top: -20px;
+font-weight: 400;
+}
+.po-ab-glow{
+    position: absolute;
+    top: -280px;
+    left: -150px;
+}
+.jce{
+    justify-content: flex-end;
+}
+.sec-one a{
+    text-decoration: none;
+    color: #3d2514;
+    font-size: 22px;
+    margin-left: 75px;
+    font-family: "Bebas Neue";
+}
+.po-ab-ff{
+    position: absolute;
+    top: 110px;
+}
+.po-ab-drinks{
+    position: absolute;
+    left: 400px;
+    top: 70px;
+}
+.po-ab-burger{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.po-ab-shadow-1{
+    position: absolute;
+    top: 560px;
+    left: 50px;
+}
+.po-ab-shadow-2{
+    position: absolute;
+    top: 540px;
+    left: 300px;
+
+}
+.po-ab-red{
+    position: absolute;
+    top: 460px;
+    left: 30px;
+}
+.po-ab-5{
+    position: absolute;
+    top:650px;
+    left: 820px;
+    font-size: 60px;
+    color:white;
+
+
+}
+.po-ab-49{
+    position: absolute;
+    top:680px;
+    left: 900px;
+    font-size: 25px;
+    color:white;
+}
+.po-ab-only{
+    position: absolute;
+    top:720px;
+    left: 850px;
+    font-size: 25px;
+    color:white;
+}
+.sec-two{
+    margin: 0 auto;
+}
+.margin{
+    margin-top: 70px;
+}
+.img-1{
+    margin-right:80px ;
+}
+.img-3{
+    margin-top:30px ;
+    margin-bottom: 70px;
+}
+.sec-two h3{
+    letter-spacing: 2px;
+    color: aliceblue;
+    font-size: 25px ;
+    font-weight: 700;
+    font-family: "Bebas Neue";
+}
+.sec-two h2{
+    letter-spacing: 2px;
+    color: aliceblue;
+    font-size: 35px ;
+    font-weight: 700;
+    font-family: "Bebas Neue";
+}
+.po-re-sec-two{
+    position: relative;
+}
+.po-ab-sec-two-text1{
+    position: absolute;
+    top: 30px;
+    left: 25px;
+}
+.po-ab-sec-two-text2{
+    position: absolute;
+    top: 55px;
+    left: 25px;
+}
+.po-ab-sec-two-text3{
+    position: absolute;
+    top: 30px;
+    left: 25px;
+}
+.po-ab-sec-two-text4{
+    position: absolute;
+    top: 60px;
+    left: 25px;
+}
+.po-ab-sec-two-text5{
+    position: absolute;
+    top: 95px;
+    left: 25px;
+}
+.po-ab-sec-two-text6{
+    position: absolute;
+    top: 55px;
+    left: 25px;
+}
+.po-ab-sec-two-text7{
+    position: absolute;
+    top: 80px;
+    left: 25px;
+}
+.sec-three{
+    margin: 0 auto;
+}
+.sec-three h4{
+    font-size: 25px;
+    text-align: center;
+    font-family: "Bebas Neue";
+    color: #3d2514;
+    background-color: #ffc045 ;
+    display: inline;
+   padding: 08px 20px 06px 20px ;
+}
+.item{
+    justify-content: space-around;
+}
+.sec-three h1{
+    margin-top: 30px;
+    font-family: "Alfa Slab One";
+    color: #3d2514;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+    
+}
+.sec-three p{
+    margin-top: 20px;
+    color: #3d2514;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 400;
+font-family: "Montserrat";
+    
+    
+
+}
+.p-3{
+    margin-bottom: 50px;
+}
+.col-90{
+    width: 90%;
+    margin: 0 auto;
+}
+.container-3{
+    width: 1350px;
+    margin: 0 auto;
+
+}
+.col-30{
+    width: 30%;
+    margin-bottom: 60px;
+}
+.sec-three h2{
+    text-align: center;
+    font-family: "Bebas Neue";
+    color: #3d2514;
+    font-size: 38px;
+}
+.sec-three button{
+    display: block;
+            margin: 0 auto;
+}
+.cart-shadow{
+    margin-left: -80px;
+    margin-top: -10px;
+}
+.sec-three button{
+background-color: red;
+color:white;
+border: none;
+font-size: 25px;
+font-family: "Bebas Neue";
+padding: 0px 20px 0px 20px;
+}
+
+.sec-four{
+    margin: 0 auto;
+    
+}
+
+.container-4{
+    margin: 0 auto;
+    width: 1300px;
+
+}
+.po-ab-sec-4{
+    position: absolute;
+    top: 40px;
+}
+.col-40{
+    width: 40%;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.sec-4-img{
+   margin-left: -20px;
+}
+.sec-four h4{
+    font-size: 29px;
+letter-spacing: 2px;
+line-height: 46px;
+text-transform: uppercase;
+color: #3d3d3d;
+font-weight: 700;
+font-family: "Bebas Neue";
+}
+.sec-four h1{
+    color: #3d2514;
+    font-weight: 400;
+    font-family: "Alfa Slab One";
+    font-size: 42px;
+}
+.sec-four p{
+    margin-top: 20px;
+    font-size: 18px;
+line-height: 33px;
+color: #3d3d3d;
+font-weight: 400;
+font-family: "Montserrat";
+       
+}
+.dot{
+    margin-top: 50px;
+}
+.sec-five{
+    margin: 0 auto;
+    overflow: hidden;
+}
+.sec-five h3{
+    margin-top: 80px;
+    font-size: 29px;
+letter-spacing: 2px;
+line-height: 46px;
+text-transform: uppercase;
+color: #3d2514;
+font-weight: 700;
+font-family: "Bebas Neue";
+text-align: center;
+margin-bottom: 10px;
+
+}
+.sec-five h1{
+    font-size: 50px;
+    letter-spacing: 3px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #3d2514;
+    font-weight: 400;
+    font-family: "Alfa Slab One";
+    text-align: center;
+    margin-bottom: 60px;
+}
+.colom{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    
+}
+.jcc{
+    justify-content: center;
+}
+.sec-five input{
+    padding: 15px 230px 15px 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 21px;
+    
+   color: #3d3d3d;
+   font-weight: 400;
+   font-family: "Bebas Neue";
+    
+}
+.sec-five button{
+    background-color: red;
+    color: aliceblue;
+    padding: 8px 140px 8px 140px;
+    margin-left: 30px;
+    margin-top: 30px;
+   border: none;
+   border-radius: 5px;
+   font-size: 21px;
+   line-height: 46px;
+   text-transform: uppercase;
+   color: #ffffff;
+   font-weight: 400;
+   font-family: "Alfa Slab One";
+   margin-bottom: 100px;
+}
+.po-ab-burger-5{
+    position: absolute;
+    left: -80px;
+    top: -60px;
+}
+.po-ab-bottal{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+}
+.po-ab-dish{
+    position: absolute;
+    top: 200px;
+    left: 1200px;
+}
+.sec-six{
+    margin: 0 auto;
+}
+.container-6{
+    width: 1350px;
+    padding-top: 60px;
+    margin: 0 auto 50px ;
+    background-image: url(./IMG/sec-6-bg.png);
+    background-repeat: no-repeat;
+    /* min-height: 700px; */
+}
+.con-6{
+    width: 80%;
+}
+.sec-six p{
+    margin-left: 50px;
+    font-size: 17px;
+line-height: 25px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Montserrat";
+    
+}
+.sec-six h4{
+    margin-left: 50px;
+    font-size: 20px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Bebas Neue";
+margin-bottom: 50px;
+}
+.logo-2{
+    margin-left: 60px;
+    margin-bottom: 80px;
+}
+.sec-six h3{
+
+    letter-spacing: 1px;
+    font-size: 25px;
+line-height: 38px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Bebas Neue";
+
+}
+.po-ab-6{
+    position: absolute;
+    left: 280px;
+    top: 180px;
+}
+.po-ab-6-1{
+    position: absolute;
+    left: 280px;
+    top: 225px;
+}
+.col-80{
+    width: 90%;
+}
+.sec-six h1{
+    color: aliceblue;
+    margin-right: 100px;
+}
+.row-6{
+    padding-top: 30px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.icon{
+    color: aliceblue;
+    font-size: 28px;
+    margin-right: 60px;
+    letter-spacing: 5px;
+    
+    
+}
